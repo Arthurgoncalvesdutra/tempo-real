@@ -1,0 +1,44 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 23px;
+  }
+  .headingDiv
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none; 
+    padding: 10px;
+  }
+  .headingDiv2
+  {
+    font-size: 18px ;
+  }
+  .resultToTag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+.resultToTag span{
+  white-space:pre-line; 
+  
+}
+ .copyRightFooter{
+  position: fixed;
+  color: chartreuse;
+  bottom: 0;
+  width: 100%;
+  background-color: blueviolet;
+  line-height:3 ;
+  text-align: center;
+ }
+ canvas{
+  border: 5px double yellowgreen;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(208, 1, 115);
+    margin-top:160px ;
+ }
